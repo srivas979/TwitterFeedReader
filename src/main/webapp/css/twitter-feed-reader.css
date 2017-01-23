@@ -1,0 +1,47 @@
+body { background-color: ##f2f2f2; 
+font-family: Arial,sans-serif;
+}
+
+.topContainer{
+	width: 60%;
+	margin:0 auto;
+}
+
+.searchBlock{
+	margin: 10px;	
+}
+
+.twitterFeedContainer{
+	background-color: #ffffff;
+	
+	
+}
+.tweetBlock{
+	border-style: solid;
+	padding: 20px 20px 20px 20px;
+	border-color:  #bfbfbf;
+	border-width: 0.6px;
+	
+}
+.userProfileImage {
+	float:left;
+	display: inline;
+	padding: 5px 5px 5px 5px;
+}
+
+.tweetContainer {
+	display: inline;
+}
+
+.labelText{
+	color: #737373;
+}
+
+.tweetText{
+	clear:both;
+}
+
+.searchComponent{
+	padding: 5px 5px 5px 5px;
+	margin: 5px;
+}
